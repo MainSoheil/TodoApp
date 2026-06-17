@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # 🕐 TimeZone Todo App
 
 A full-stack todo application with Persian (Jalali) calendar support and advanced time management features.
 
-![Todo App Demo](screenshots/demo.gif)
+![Todo App Demo](screenshots/demo.png)
 
 ## ✨ Features
 
@@ -29,21 +30,6 @@ A full-stack todo application with Persian (Jalali) calendar support and advance
 - **SQLite** database
 - **Flask-CORS** for cross-origin requests
 
-## 📁 Project Structure
-TodoAPp/
-├── backend/ # Flask backend API
-│ ├── frontend # BuildFolder of Frontend
-│ ├── app.py # Main application
-│ ├── database.py # Database models
-│ ├── requirements.txt
-│ └── migrations/ # Database migrations
-├── frontend/ # React + Vite frontend
-│ ├── src/ # Source code
-│ ├── public/ # Static assets
-│ ├── dist/ # Build output
-│ └── package.json
-└── README.md
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -63,3 +49,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 python app.py
+=======
+# TodoApp
+Full-stack Todo App with React + Flask featuring Persian (Jalali) calendar, advanced timer, and responsive design. Built with modern development practices, RESTful API, and clean architecture.
+>>>>>>> db253d8e0fc56a8d7083444d31f3bf803987e34e
